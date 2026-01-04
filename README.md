@@ -33,5 +33,5 @@ Conclusion
 This project demonstrates the complete end-to-end machine learning pipeline including data loading, preprocessing, model training, evaluation, and saving the model.
 The Iris dataset is ideal for understanding basic classification concepts in machine learning.
 Author
-Krishna Kumar
+Tejaswi Kumar
 Machine Learning Internship – Task 1
